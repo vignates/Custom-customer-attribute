@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
+    <default>
+        <customer_attribute>
+            <customer_attribute_validation>
+                <linkedin_profile_validation>req</linkedin_profile_validation>
+            </customer_attribute_validation>
+        </customer_attribute>
+    </default>
+</config>
